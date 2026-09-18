@@ -1,16 +1,74 @@
-## Hi there 👋
+👋 Hi, I'm Divyanshu
 
-<!--
-**DivyanshuBuilds/DivyanshuBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer building production-ready web applications
+with Python, FastAPI, React and Azure.
 
-Here are some ideas to get you started:
+Currently:
+💼 Software Engineer @ Bot Mantra
+📍 Bengaluru, India
+🎯 Open to Full-Time Software Engineering Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────
+
+🚀 WHAT I BUILD
+
+• Full-stack web applications
+• REST APIs & backend services
+• Role-based applications
+• Automation systems
+• AI-powered tools & agents
+• Cloud-deployed applications
+
+────────────────────────────────────
+
+🛠️ TECH STACK
+
+Languages
+Python • JavaScript • TypeScript • SQL
+
+Frontend
+React • Vite • Tailwind CSS • shadcn/ui
+
+Backend
+FastAPI • REST APIs • JWT • WebSockets
+
+Database
+PostgreSQL • MongoDB
+
+Cloud & DevOps
+Azure • Docker • Nginx • Git
+
+AI
+LLM APIs • RAG • Embeddings • AI Agents
+
+────────────────────────────────────
+
+⭐ FEATURED PROJECTS
+
+[Project 1]
+[Project 2]
+[Project 3]
+[Project 4]
+
+────────────────────────────────────
+
+💼 EXPERIENCE
+
+Software Engineer — Bot Mantra
+2025 – Present
+
+• ...
+• ...
+• ...
+
+────────────────────────────────────
+
+📊 GITHUB ACTIVITY
+
+[contribution graph / stats]
+
+────────────────────────────────────
+
+🌐 FIND ME
+
+Portfolio | LinkedIn | Email | GitHub
