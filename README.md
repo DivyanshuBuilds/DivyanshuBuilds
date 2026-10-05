@@ -22,12 +22,6 @@ Software Engineer at **Bot Mantra**, building backend systems and AI-driven tool
 
 ---
 
-### 💡 Impact
-
-- Built **BotConsole**, a bot-triggering dashboard that cut manual task turnaround from hours to seconds for business users
-- Designed an **AI-agent-driven recruitment outreach pipeline** — automating company verification, contact discovery, and templated email outreach at scale for a staffing business
-- Delivered extraction APIs (PDF, invoice, OCR, tabular) powering **BotIQ**, an in-house document-intelligence product
-- Ships and maintains production services on **Azure**, with Docker/Nginx deployments for client-facing frontends
 
 ---
 
